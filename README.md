@@ -1,4 +1,6 @@
-# Exercícios
+# computer Repositório destinado a resolução de exercícios da disciplina de Programação Orientada a Objetos - BSI-UFRN
+
+## Exercícios
 ### Texto 02
 1. Texto 02
   2. Receber dois inteiros e retorná-los em ordem crescente
