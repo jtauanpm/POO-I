@@ -1,7 +1,7 @@
 # :computer: Repositório destinado a resolução de exercícios da disciplina de Programação Orientada a Objetos - BSI-UFRN
 
 ## Exercícios
-1. Texto 02
+## Texto 02
   2. Receber dois inteiros e retorná-los em ordem crescente
   3. Receber três números reais e retorná-los em ordem decrescente
   4. Receber um número real e retornar sua raiz quadrada
